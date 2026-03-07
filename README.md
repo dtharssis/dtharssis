@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Danilo Araújo 👋</h1>
 
 <p align="center">
-  <b>Tech Lead · Backend Engineer · DevOps</b><br/> ⚙️
+  <b>Tech Lead · Backend Engineer · DevOps</b> ⚙️ <br/>
   Designing reliable backend systems, maintaining complex platforms, and improving engineering workflows.
 </p>
 
